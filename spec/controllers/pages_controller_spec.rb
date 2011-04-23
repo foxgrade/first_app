@@ -43,6 +43,5 @@ describe PagesController do
                           "Ruby on Rails Tutorial Sample App | About")
     end
   end
-
 end
 
